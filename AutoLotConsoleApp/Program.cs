@@ -10,6 +10,7 @@ namespace AutoLotConsoleApp
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
